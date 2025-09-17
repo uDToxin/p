@@ -1,0 +1,5 @@
+pyrogram
+requests
+Flask
+flask-cors
+libvirt-python

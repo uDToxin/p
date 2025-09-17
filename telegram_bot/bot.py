@@ -1,9 +1,9 @@
 from pyrogram import Client, filters
 import requests
 
-api_id = 123456
-api_hash = "your_api_hash"
-bot_token = "your_bot_token"
+api_id = 28452154
+api_hash = "a14cc1a01dd79ada014d774332fd2285"
+bot_token = "7891280232:AAF2Vvlokjxyh3oYJ03IQozrvOH_dVDx-MU"
 API_URL = "http://localhost:5000"
 
 app = Client("vpsbot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)

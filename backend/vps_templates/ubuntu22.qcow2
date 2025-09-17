@@ -1,1 +1,2 @@
-
+mkdir -p backend/vps_templates
+mv jammy-server-cloudimg-amd64.img backend/vps_templates/ubuntu22.qcow2
